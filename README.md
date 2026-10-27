@@ -1,1 +1,3 @@
 readam.dm
+commit
+push
